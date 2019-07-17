@@ -1,0 +1,32 @@
+{
+  "name": "hello-next-cosmos",
+  "version": "1.0.0",
+  "description": "A sample repo to see if cosmos can make nice with nextjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haf/hello-next-cosmos.git"
+  },
+  "author": "haf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haf/hello-next-cosmos/issues"
+  },
+  "homepage": "https://github.com/haf/hello-next-cosmos#readme",
+  "dependencies": {
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.8",
+    "@types/react": "^16.8.23",
+    "typescript": "^3.5.3"
+  }
+}
